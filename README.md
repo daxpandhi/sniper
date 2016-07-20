@@ -1,4 +1,4 @@
-# sniper
+# Sniper
 An ultra lightweight blog engine based on ASP.NET 5, with a JSON backend for metadata, and markdown for content.
 
 ## Why?
